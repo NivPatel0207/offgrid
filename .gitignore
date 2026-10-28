@@ -1,0 +1,21 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editor folders
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# PHP / Web Server Logs
+*.log
+error_log
+
+# Uploads directory (retain directory with .gitkeep)
+uploads/*
+!uploads/.gitkeep
